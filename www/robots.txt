@@ -1,0 +1,8 @@
+#
+# robots.txt for
+#
+
+User-agent: *
+
+Disallow: /admin/
+Disallow: /common/
