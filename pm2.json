@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "MeiYu",
+    "script": "production.js",
+    "cwd": "/home/node/com.meiyuwuliu_8363/MeiYuWuLiu",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+
+    }
+  }]
+}
